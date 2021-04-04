@@ -1,0 +1,16 @@
+
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(û °«8ı¨»ä‰/
+[
+java:S1155`">Use isEmpty() to check whether the collection is empty or not.(‰¤¬â8ı¨»ä‰/
+ƒ
+java:S2234"fParameters to removeNodeConnection have the same names but not the same order as the method arguments.(½¯Ï8ı¨»ä‰/
+Y
+java:S1854C"<Remove this useless assignment to local variable "lastNode".(Ù¹ê 8ı¨»ä‰/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(„÷Ïšùÿÿÿÿ8ı¨»ä‰/
+M
+java:S1481."0Remove this unused "connections" local variable.(¬“µğ8ı¨»ä‰/
+M
+java:S14812"0Remove this unused "connections" local variable.(¡ÊĞ§8ı¨»ä‰/
+J
+java:S1481C"-Remove this unused "lastNode" local variable.(Ù¹ê 8ı¨»ä‰/
